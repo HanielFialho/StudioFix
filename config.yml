@@ -1,0 +1,30 @@
+#Olá,
+#Lançamos hoje uma incrível novidade para donos de servidores, uma ferramenta que irar auxiliar-los nos diversos bugs do dia a dia do seu servidores.
+#Esperamos que gostem desta novidade. As ferramentas são mais uma exclusividade para membros que possuem conta na gamersboard e pretendemos lançar mais novidades em breve.
+#Portanto, se não adquiriu o seu plugin, não perca tempo! Adquira-o agora mesmo baixando na gamersboard.
+
+#Para Correções Relacionadas a o plugin playervaults ou chests Deixe True True = Correções Ativada = False = Correções Desativadas.
+Fix:
+  Player:
+    Vaults: true
+PlayerVaultFix: "&aOlá Amigo, não dupe no nosso servidor, pois, ele é amigável para um certo publico, não permitimos dupes no mesmo, retire-se ou jogue sem tentar executar uma maneira de sobressair em cima de outros jogadores, por métodos ilegais."
+
+#Para Correções Relacionadas a bigorna Deixe True True = Correções Ativada = False = Correções Desativadas.
+StacksNaBigornaOFF: false
+FixStacksNaBigorna: "&cSua Mensagem Bonitinha Aqui."
+BigornaFix: true
+BigornaFixMensagem: "&rSua Mensagem Bonitinha Aqui."
+#Para Correções Relacionado Á Bussola Deixe True True = Correções Ativada = False = Correções Desativadas.
+Bussola:
+  Fix:
+    Teleporte: true
+    
+BussolaFixTeleporteMensagem: "&cPrezado, lamentamos informar, mais não é possivel teleportar sê com a bussola."    
+#Para Correções Relacionado As Perolas Deixe True True = Correções Ativada = False = Correções Desativadas.
+PearlGlitch:
+  Message: "&ePrezado, não é possivel teleportar-se para esse tipo de bloco."
+#Para Correções Relacionado Ao Drops De experiência Deixe True True = Correções Ativada = False = Correções Desativadas.
+Fix:
+  MobsSpawners: 
+    Xp: true
+  
